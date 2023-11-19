@@ -111,43 +111,6 @@ urls = df['Links'].tolist()
 </ul>
 
 
---- 
-
-검색 키워드
-
-- Instagram Downloader
-
-- 인스타그램 다운로드
-
-- 인스타 다운로드
-
-- 인스타그램 다운
-
-- 인스타 다운
-
-- Instagram 동영상 다운로드
-
-- Insta 동영상 다운로드
-
-- Instagram 동영상 다운
-
-- Insta 동영상 다운
-
-- Instagram Video Saver
-
-- 인스타그램 비디오 저장
-
-- Social Media Video Grabber
-
-- 소셜 미디어 비디오 추출
-
-- Open Source Instagram Tool
-
-- Instagram 다운로드 소스 코드
-
-- 인스타그램 비디오 추출 도구
-
-
 
 
 
