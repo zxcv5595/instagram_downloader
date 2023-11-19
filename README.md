@@ -45,6 +45,25 @@
 
 <img src='https://github.com/zxcv5595/instagram_downloader/assets/109198584/e5c72632-1391-4f2f-b9ce-2b63bd270721' style='width: 300px; height: auto;'>
 
+
+　
+
+
+- 동작 코드는 아래와 같습니다. 
+- xlsx 파일명과 컬럼명을 확인해주세요.
+
+　
+
+- The functioning code is as follows. 
+- Please verify the name of the xlsx file and the column names.
+
+```python
+# Reading addresses from an Excel file
+excel_file = "instagram.xlsx"
+df = pd.read_excel(excel_file)
+urls = df['Links'].tolist()
+```
+
 ---
 - [ 실행화면 ] 인스타그램 아이디와 비밀번호를 입력해주세요
 
