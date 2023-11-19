@@ -72,3 +72,4 @@ if __name__ == '__main__':
             os.remove(file_path)
 
     print("All videos downloaded and filtered successfully")
+    input("Press Enter to exit...")
