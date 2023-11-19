@@ -1,7 +1,7 @@
 # instagram_downloader
 인스타그램 비디오 파일 다운로더 입니다  / This is an Instagram video file downloader
 
-<a href="https://github.com/zxcv5595/instagram_downloader/releases/tag/v0.0.1" target="_blank">release [ instagram_downloader.exe ]</a>
+[release [ instagram_downloader.exe ]](https://github.com/zxcv5595/instagram_downloader/releases/tag/v0.0.1)
 
 ---
 사용법 / HOW TO USE
