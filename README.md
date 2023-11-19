@@ -3,7 +3,8 @@
 
 <a href="https://github.com/zxcv5595/instagram_downloader/releases/tag/v0.0.1">release [ instagram_downloader.exe ]</a>
 
-
+---
+사용법 / HOW TO USE
 ---
 - 먼저 동영상을 다운받고 싶은 게시물들의 url를 수집합니다.
 - 저는 인스타그램의 공유하기 기능으로, 고양이 게시물들을 개인메세지에 모아 놓곤합니다. 😻 
@@ -70,7 +71,25 @@
 
 <img src='https://github.com/zxcv5595/instagram_downloader/assets/109198584/c921c999-874e-4eda-87b8-5eda68c30431' style='width: 500px; height: auto;'>
 
+---
+##  출처 / SOURCE
 
+<ul>
+  <li><code>instaloader</code>: Instagram에서 데이터를 크롤링하는 라이브러리로, Instagram 게시물을 다운로드하는 데 사용됩니다. <br>
+    출처: <a href="https://instaloader.github.io/">Instaloader Documentation</a>.</li><br>
+  <li><code>pandas</code>: 데이터 분석 및 조작을 위한 라이브러리로, Excel 파일에서 URL 목록을 가져오는 데 사용됩니다.<br>
+    출처: <a href="https://pandas.pydata.org/">pandas Documentation</a>.</li><br>
+  <li><code>concurrent.futures</code>: 비동기 실행을 위한 고수준 인터페이스를 제공하는 모듈로, 동시에 여러 Instagram 게시물을 다운로드하는 데 사용됩니다.<br>
+    출처: <a href="https://docs.python.org/3/library/concurrent.futures.html">concurrent.futures Documentation</a>.</li><br>
+  <li><code>os</code>: 운영 체제와 상호 작용하는 기능을 제공하는 모듈로, 다운로드 폴더 생성 및 파일 시스템 작업에 사용됩니다.<br>
+    출처: <a href="https://docs.python.org/3/library/os.html">os Documentation</a>.</li><br>
+  <li><code>re</code>: 정규 표현식을 사용하여 문자열을 처리하는 모듈로, URL에서 특정 패턴을 찾는 데 사용됩니다.<br>
+    출처: <a href="https://docs.python.org/3/library/re.html">re Documentation</a>.</li><br>
+  <li><code>tqdm</code>: 진행 상황 표시줄을 제공하는 라이브러리로, 다운로드 진행 상황을 시각적으로 표시하는 데 사용됩니다.<br>
+    출처: <a href="https://tqdm.github.io/">tqdm Documentation</a>.</li><br>
+  <li><code>multiprocessing</code>: 멀티프로세싱을 위한 함수를 포함하는 모듈로, 특히 Windows에서 멀티프로세싱을 사용할 때 필요합니다.<br>
+    출처: <a href="https://docs.python.org/3/library/multiprocessing.html">multiprocessing Documentation</a>.</li><br>
+</ul>
 
 
 
