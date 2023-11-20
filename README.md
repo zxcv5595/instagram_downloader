@@ -1,7 +1,7 @@
 # instagram_downloader
 인스타그램 비디오 파일 다운로더 입니다  / This is an Instagram video file downloader
 
-<a href="https://github.com/zxcv5595/instagram_downloader/releases/tag/v0.0.1">release [ instagram_downloader.exe ]</a>
+[release [ instagram_downloader.exe ]](https://github.com/zxcv5595/instagram_downloader/releases/tag/v0.0.1)
 
 ---
 사용법 / HOW TO USE
@@ -22,7 +22,7 @@
 
 ---
 -  수집한 url들을 instagram.xlsx 파일, 'Links' 컬럼 아래 붙혀넣습니다.
-- 알아서 '/문자열/' 형태를 가진 게시물의 id만 을 파싱 해주기 때문에 사진과 같이 붙혀넣어도 상관없습니다. (ex : '/CylSlgtx4wM/')
+- 알아서 '/문자열/' 형태를 가진 게시물의 id만을 파싱 해주기 때문에 사진과 같이 붙혀넣어도 상관없습니다. (ex : '/CylSlgtx4wM/')
 
 　
 
@@ -109,6 +109,7 @@ urls = df['Links'].tolist()
   <li><code>multiprocessing</code>: 멀티프로세싱을 위한 함수를 포함하는 모듈로, 특히 Windows에서 멀티프로세싱을 사용할 때 필요합니다.<br>
     출처: <a href="https://docs.python.org/3/library/multiprocessing.html">multiprocessing Documentation</a>.</li><br>
 </ul>
+
 
 
 
